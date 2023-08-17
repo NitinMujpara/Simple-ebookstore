@@ -1,0 +1,27 @@
+.card {
+  margin-top: 4px;
+  border: solid 2px black;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.card-head {
+  display: flex;
+  justify-content: "space-between";
+}
+
+.card-container {
+  display: flex;
+}
+
+img {
+  margin: 5px;
+  padding: 5px;
+}
+
+.container-head {
+  display: flex;
+  margin-left: 20px;
+}

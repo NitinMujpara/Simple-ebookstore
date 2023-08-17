@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  text-justify: inherit;
+  text-align: center;
+  margin: 2rem;
+  padding: 2rem;
+  margin-top: 65px;
+}
+
+.select {
+  width: 90%;
+}

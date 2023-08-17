@@ -1,0 +1,4 @@
+.BooklistContainer {
+  max-height: 480px; /* Adjust the maximum height as needed */
+  overflow-y: auto; /* Enable vertical scrollbar when content overflows */
+}

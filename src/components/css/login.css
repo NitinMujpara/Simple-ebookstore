@@ -1,0 +1,21 @@
+body {
+  background-color: cornflowerblue;
+  color: aliceblue;
+}
+
+.lglinks {
+  padding-top: 2rem;
+}
+
+h4 {
+  opacity: 0.8;
+  display: inline;
+}
+
+.for {
+  float: left;
+}
+
+.reg {
+  float: right;
+}
